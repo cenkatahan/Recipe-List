@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recipes List</string>
+    <string name="recipe_name">Recipe</string>
+
+    <string name="ingredients_name">Ingredients</string>
+    <string name="prep_name">Preparation</string>
+
+    <string name="help_title">Help</string>
+    <string name="share_title">Share</string>
+</resources>
